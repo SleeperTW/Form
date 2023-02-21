@@ -1,0 +1,50 @@
+body {
+  background: url(./Flag_of_Ukraine.svg.webp) no-repeat;
+  background-size: 100%;
+}
+
+p {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+  font-size: 40px;
+  background-color: black;
+  width: auto;
+}
+
+.formOne {
+  margin: 15px 0;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  border: 2px solid none;
+  border-radius: 5px;
+}
+
+fieldset {
+  width: 300px;
+  height: 100px;
+  background-color: black;
+  border-radius: 5px;
+}
+
+legend {
+  background-color: black;
+  border-radius: 5px;
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+}
+
+input {
+  background-color: black;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+label {
+  background-color: black;
+  border-radius: 5px;
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
